@@ -2,7 +2,7 @@
 
 USER MANUAL
 
-FOR SCENARIO 1 :
+# FOR SCENARIO 1 :
 
 •	w : To start the ship in scenario 1
 
@@ -29,7 +29,7 @@ FOR SCENARIO 1 :
 •	m : For night scenario
 
 
-FOR SCENARIO 4 :
+# FOR SCENARIO 4 :
 
 •	x: snowstorm
 
