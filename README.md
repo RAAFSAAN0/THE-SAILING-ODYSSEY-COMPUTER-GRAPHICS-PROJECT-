@@ -3,20 +3,31 @@
 USER MANUAL
 
 FOR SCENARIO 1 :
+
 •	w : To start the ship in scenario 1
+
 •	q : To stop the ship in scenario 1
 
 •	t : To start the truck in scenario 1
 
 •	y : To stop the truck in scenario 1
+
 •	up arrow : To move up (The crane hook block)
+
 •	down arrow : To move down (The crane hook block)
+
 •	right arrow : To move right (The crane hook block)
+
 •	left arrow : To move left (The crane hook block)
+
 •	p : press p to pick when the hook block is top of the container
+
 •	r : press r to release the container at ground.
+
 •	n : For day scenario
+
 •	m : For night scenario
+
 
 FOR SCENARIO 4 :
 •	x: snowstorm 
