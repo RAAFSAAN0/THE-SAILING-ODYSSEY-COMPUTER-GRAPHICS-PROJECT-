@@ -3,9 +3,11 @@
 USER MANUAL
 
 FOR SCENARIO 1 :
-•	w : To start the ship in scenario 1\n
-•	q : To stop the ship in scenario 1\n
+•	w : To start the ship in scenario 1
+•	q : To stop the ship in scenario 1
+
 •	t : To start the truck in scenario 1
+
 •	y : To stop the truck in scenario 1
 •	up arrow : To move up (The crane hook block)
 •	down arrow : To move down (The crane hook block)
